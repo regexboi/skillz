@@ -1,0 +1,13 @@
+# Local reference clone used during skill authoring
+toon/
+
+# Built skill archives
+*.skill
+
+# Local agent install targets / symlinks
+.claude/
+.cursor/
+.windsurf/
+
+# OS/editor noise
+.DS_Store
