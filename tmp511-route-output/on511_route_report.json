@@ -1,0 +1,1530 @@
+{
+  "generatedAt": "2026-02-22T09:33:20.258Z",
+  "route": {
+    "start": "4 Agincourt Drive, Scarborough, ON",
+    "end": "1908 Colonel Sam Drive, Oshawa, ON",
+    "primary": {
+      "time": "35 min",
+      "distance": "44.9 km",
+      "events": 2,
+      "currentRoadwork": "Recurring-Moving Maintenance Closure on HWY 401 Eastbound Collector between MORNINGSIDE AVE, Toronto and BROCK ROAD, Pickering. 2 Alternating Lane(s).",
+      "construction": [
+        "Expect delays up to 5 minutes. Highway 401 / Wilson Road, Oshawa. From January 27 to January 28, 2026 Expect delays up to 5 minutes. Two lane closure of 401 Eastbound at Ritson Road to Harmony Road. First Lane closed at 9:00pm. Second Lane closed at 11:00pm. All lanes reopened at 6:00am. Onramp closure of RITSON RD. Onramp to Highway 401 Eastbound. Onramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. Full Offramp closure on highway 401 Eastbound to Harmony Road Off-ramp. Offramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. From January 27 to January 28, 2026 Expect delays up to 20 minutes. Full closure of 401 Eastbound at Ritson Road to Harmony Road. 15-minute OPP Assisted Rolling Full closure between 11:59pm and 5:00am. From January 28 to January 29, 2026 Expect delays up to 5 minutes. Two lane closure of 401 Eastbound at Ritson Road to Harmony Road. First Lane closed at 9:00pm. Second Lane closed at 11:00pm. All lanes reopened at 6:00am. OHS Repair: Onramp closure of RITSON road. Onramp to Highway 401 Eastbound. Onramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. From January 28 to January 29, 2026 Expect delays up to 20 minutes. Full closure at highway 401 East bound at Ritson Road February 20, 2026 - February 27, 2026View on map",
+        "There is no impact on traffic. Brock Road and the highway. 401 On/Off Ramps are now fully open. The project is now in configuration until March/April. There will be single lane closures on Brock Road to allow Guild to install one light and a pedestrian light on the bridge sometime during the next few weeks February 20, 2026 - February 27, 2026"
+      ],
+      "cameraCount": 12,
+      "cameraNames": [
+        "Highway 401 near Brock Road",
+        "Highway 401 East of Brock Road",
+        "Highway 401 West of Westney Road",
+        "Highway 401 West of Salem Road",
+        "Highway 401 near Salem Road",
+        "Highway 401 East of Salem Road",
+        "Highway 401 West of Lakeridge Road",
+        "Highway 401 Near Lakeridge Road",
+        "Highway 401 near Highway 412",
+        "Highway 401 East of Highway 412 interchange",
+        "Highway 401 West of Henry Street",
+        "Highway 401 near Thickson Road"
+      ],
+      "avgSpeedKmh": 77
+    },
+    "trafficSpeed": {
+      "note": "511ON traffic speeds are delivered as colorized tiles; numeric per-segment speeds are not exposed in list APIs.",
+      "averageFromRouteTimeKmh": 77,
+      "tileLegend": {
+        "closedStopped": "#808080 / stopped",
+        "slow": "#4D0001 to #CC0004",
+        "medium": "#F4FF24",
+        "fast": "#249D74"
+      },
+      "sampleTileUrls": [
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=571&y=744&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=571&y=745&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=571&y=746&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=571&y=747&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=572&y=744&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=572&y=745&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=572&y=746&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=572&y=747&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=573&y=744&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=573&y=745&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=573&y=746&z=11",
+        "https://tiles.ibi511.com/Geoservice/GetTrafficTile?x=573&y=747&z=11"
+      ]
+    }
+  },
+  "eventsAndRoadwork": {
+    "eventsCount": 2,
+    "currentRoadwork": "Recurring-Moving Maintenance Closure on HWY 401 Eastbound Collector between MORNINGSIDE AVE, Toronto and BROCK ROAD, Pickering. 2 Alternating Lane(s).",
+    "constructionItems": [
+      "Expect delays up to 5 minutes. Highway 401 / Wilson Road, Oshawa. From January 27 to January 28, 2026 Expect delays up to 5 minutes. Two lane closure of 401 Eastbound at Ritson Road to Harmony Road. First Lane closed at 9:00pm. Second Lane closed at 11:00pm. All lanes reopened at 6:00am. Onramp closure of RITSON RD. Onramp to Highway 401 Eastbound. Onramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. Full Offramp closure on highway 401 Eastbound to Harmony Road Off-ramp. Offramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. From January 27 to January 28, 2026 Expect delays up to 20 minutes. Full closure of 401 Eastbound at Ritson Road to Harmony Road. 15-minute OPP Assisted Rolling Full closure between 11:59pm and 5:00am. From January 28 to January 29, 2026 Expect delays up to 5 minutes. Two lane closure of 401 Eastbound at Ritson Road to Harmony Road. First Lane closed at 9:00pm. Second Lane closed at 11:00pm. All lanes reopened at 6:00am. OHS Repair: Onramp closure of RITSON road. Onramp to Highway 401 Eastbound. Onramp closed at 10:00pm and reopened at 6:00am. Traffic to follow detours in place. From January 28 to January 29, 2026 Expect delays up to 20 minutes. Full closure at highway 401 East bound at Ritson Road February 20, 2026 - February 27, 2026View on map",
+      "There is no impact on traffic. Brock Road and the highway. 401 On/Off Ramps are now fully open. The project is now in configuration until March/April. There will be single lane closures on Brock Road to allow Guild to install one light and a pedestrian light on the bridge sometime during the next few weeks February 20, 2026 - February 27, 2026"
+    ]
+  },
+  "cameras": {
+    "primaryRouteCameraNames": [
+      "Highway 401 near Brock Road",
+      "Highway 401 East of Brock Road",
+      "Highway 401 West of Westney Road",
+      "Highway 401 West of Salem Road",
+      "Highway 401 near Salem Road",
+      "Highway 401 East of Salem Road",
+      "Highway 401 West of Lakeridge Road",
+      "Highway 401 Near Lakeridge Road",
+      "Highway 401 near Highway 412",
+      "Highway 401 East of Highway 412 interchange",
+      "Highway 401 West of Henry Street",
+      "Highway 401 near Thickson Road"
+    ],
+    "matched": [
+      {
+        "itemId": "153",
+        "location": [
+          43.86936,
+          -78.9015
+        ],
+        "name": "Highway 401 near Thickson Road",
+        "images": [
+          "https://511on.ca/map/Cctv/442",
+          "https://511on.ca/map/Cctv/443",
+          "https://511on.ca/map/Cctv/444"
+        ]
+      },
+      {
+        "itemId": "371",
+        "location": [
+          43.837932,
+          -79.070406
+        ],
+        "name": "Highway 401 near Brock Road",
+        "images": [
+          "https://511on.ca/map/Cctv/731"
+        ]
+      },
+      {
+        "itemId": "372",
+        "location": [
+          43.841832,
+          -79.061995
+        ],
+        "name": "Highway 401 East of Brock Road",
+        "images": [
+          "https://511on.ca/map/Cctv/732"
+        ]
+      },
+      {
+        "itemId": "373",
+        "location": [
+          43.845794,
+          -79.052296
+        ],
+        "name": "Highway 401 West of Westney Road",
+        "images": [
+          "https://511on.ca/map/Cctv/733"
+        ]
+      },
+      {
+        "itemId": "375",
+        "location": [
+          43.852169,
+          -79.022083
+        ],
+        "name": "Highway 401 West of Salem Road",
+        "images": [
+          "https://511on.ca/map/Cctv/735"
+        ]
+      },
+      {
+        "itemId": "376",
+        "location": [
+          43.854373,
+          -79.015844
+        ],
+        "name": "Highway 401 near Salem Road",
+        "images": [
+          "https://511on.ca/map/Cctv/736"
+        ]
+      },
+      {
+        "itemId": "377",
+        "location": [
+          43.856968,
+          -79.003502
+        ],
+        "name": "Highway 401 East of Salem Road",
+        "images": [
+          "https://511on.ca/map/Cctv/737"
+        ]
+      },
+      {
+        "itemId": "378",
+        "location": [
+          43.859279,
+          -78.992945
+        ],
+        "name": "Highway 401 West of Lakeridge Road",
+        "images": [
+          "https://511on.ca/map/Cctv/738"
+        ]
+      },
+      {
+        "itemId": "379",
+        "location": [
+          43.861607,
+          -78.9829
+        ],
+        "name": "Highway 401 Near Lakeridge Road",
+        "images": [
+          "https://511on.ca/map/Cctv/739"
+        ]
+      },
+      {
+        "itemId": "380",
+        "location": [
+          43.864264,
+          -78.970876
+        ],
+        "name": "Highway 401 near Highway 412",
+        "images": [
+          "https://511on.ca/map/Cctv/740"
+        ]
+      },
+      {
+        "itemId": "381",
+        "location": [
+          43.866627,
+          -78.959933
+        ],
+        "name": "Highway 401 East of Highway 412 interchange",
+        "images": [
+          "https://511on.ca/map/Cctv/741"
+        ]
+      },
+      {
+        "itemId": "382",
+        "location": [
+          43.866652,
+          -78.947651
+        ],
+        "name": "Highway 401 West of Henry Street",
+        "images": [
+          "https://511on.ca/map/Cctv/742"
+        ]
+      }
+    ],
+    "missingNames": []
+  },
+  "plows": {
+    "totalProvince": 440,
+    "nearRouteCount": 48,
+    "nearRoute": [
+      {
+        "itemId": "4066",
+        "location": [
+          43.83359,
+          -79.066419
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4118",
+        "location": [
+          43.939613,
+          -79.047846
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4306",
+        "location": [
+          43.790019,
+          -79.342675
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4442",
+        "location": [
+          43.959402,
+          -78.76695
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4497",
+        "location": [
+          43.96879,
+          -78.774003
+        ],
+        "icon": {
+          "json": "45",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4498",
+        "location": [
+          43.939606,
+          -79.04777
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4540",
+        "location": [
+          43.786461,
+          -79.235994
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4548",
+        "location": [
+          43.959114,
+          -78.766925
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4549",
+        "location": [
+          43.965037,
+          -78.806502
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4551",
+        "location": [
+          43.965472,
+          -78.804403
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4583",
+        "location": [
+          43.931171,
+          -79.390291
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4603",
+        "location": [
+          43.794864,
+          -79.344691
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4679",
+        "location": [
+          43.819424,
+          -79.360582
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4701",
+        "location": [
+          43.833776,
+          -79.0664
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4714",
+        "location": [
+          43.882275,
+          -79.384704
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4756",
+        "location": [
+          43.939978,
+          -79.047897
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4805",
+        "location": [
+          43.833926,
+          -79.066221
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4819",
+        "location": [
+          43.781674,
+          -79.250227
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4826",
+        "location": [
+          43.734941,
+          -79.435091
+        ],
+        "icon": {
+          "json": "45",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4829",
+        "location": [
+          43.768173,
+          -79.320205
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4830",
+        "location": [
+          43.741398,
+          -79.423347
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4837",
+        "location": [
+          43.845402,
+          -79.10471
+        ],
+        "icon": {
+          "json": "270",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4863",
+        "location": [
+          43.887747,
+          -78.70327
+        ],
+        "icon": {
+          "json": "45",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4885",
+        "location": [
+          43.724678,
+          -79.471846
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4886",
+        "location": [
+          43.747024,
+          -79.41671
+        ],
+        "icon": {
+          "json": "45",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4888",
+        "location": [
+          43.766192,
+          -79.360678
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4890",
+        "location": [
+          43.833341,
+          -79.066291
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4891",
+        "location": [
+          43.836784,
+          -79.066381
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4913",
+        "location": [
+          43.886522,
+          -78.823091
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4923",
+        "location": [
+          43.767734,
+          -79.327642
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4928",
+        "location": [
+          43.711117,
+          -79.506125
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4929",
+        "location": [
+          43.715382,
+          -79.516282
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4936",
+        "location": [
+          43.791418,
+          -79.220301
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4943",
+        "location": [
+          43.7168,
+          -79.514131
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4945",
+        "location": [
+          43.78313,
+          -79.243949
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "4953",
+        "location": [
+          43.757142,
+          -79.337094
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5219",
+        "location": [
+          43.83328,
+          -79.066458
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5235",
+        "location": [
+          43.833658,
+          -79.0664
+        ],
+        "icon": {
+          "json": "90",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5236",
+        "location": [
+          43.837411,
+          -79.066381
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5240",
+        "location": [
+          43.837651,
+          -79.06633
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5241",
+        "location": [
+          43.837699,
+          -79.0664
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5248",
+        "location": [
+          43.83768,
+          -79.066368
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5251",
+        "location": [
+          43.833917,
+          -79.066419
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5255",
+        "location": [
+          43.797347,
+          -79.343885
+        ],
+        "icon": {
+          "json": "0",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5258",
+        "location": [
+          43.940033,
+          -79.047569
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5260",
+        "location": [
+          43.939676,
+          -79.047504
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5267",
+        "location": [
+          43.939874,
+          -79.048019
+        ],
+        "icon": {
+          "json": "180",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      },
+      {
+        "itemId": "5279",
+        "location": [
+          43.723942,
+          -79.481088
+        ],
+        "icon": {
+          "json": "315",
+          "size": [
+            0,
+            0
+          ],
+          "anchor": [
+            0,
+            0
+          ],
+          "zindex": 0,
+          "preventClustering": false,
+          "isClickable": true,
+          "rotation": 0
+        },
+        "title": ""
+      }
+    ]
+  },
+  "roadConditions": {
+    "rows": [
+      {
+        "DT_RowId": 3806529,
+        "id": 3806529,
+        "area": "CR - Kennedy Rd - 40",
+        "roadway": "401",
+        "description": "From Morningside (Scarborough) to Highway 400",
+        "stale": false,
+        "primaryCondition": "Bare and wet road",
+        "visibility": "Good",
+        "drifting": "No",
+        "secondaryConditions": [],
+        "lastUpdated": "26-2-21 8:14 PM"
+      },
+      {
+        "DT_RowId": 3806534,
+        "id": 3806534,
+        "area": "CR - Newtonville - 61",
+        "roadway": "401",
+        "description": "From Boundary Road to Harmony Road",
+        "stale": false,
+        "primaryCondition": "Bare and wet road",
+        "visibility": "Fair",
+        "drifting": "No",
+        "secondaryConditions": [],
+        "lastUpdated": "26-2-21 8:14 PM"
+      },
+      {
+        "DT_RowId": 3806544,
+        "id": 3806544,
+        "area": "CR - Brock Rd - 60",
+        "roadway": "401",
+        "description": "From Harmony Road to Morningside (Scarborough)",
+        "stale": false,
+        "primaryCondition": "Partly ice covered",
+        "visibility": "Fair",
+        "drifting": "No",
+        "secondaryConditions": [
+          "Bare and wet road"
+        ],
+        "lastUpdated": "26-2-21 8:15 PM"
+      },
+      {
+        "DT_RowId": 3807139,
+        "id": 3807139,
+        "area": "ER - Brockville - 51 E",
+        "roadway": "401",
+        "description": "From Maitland to Lansdowne ",
+        "stale": false,
+        "primaryCondition": "Bare and wet road",
+        "visibility": "Good",
+        "drifting": "No",
+        "secondaryConditions": [
+          "Partly snow covered"
+        ],
+        "lastUpdated": "26-2-22 2:07 AM"
+      }
+    ],
+    "count": 4
+  },
+  "forecastedDrivingConditions": {
+    "rows": [
+      {
+        "order": 639073296000000000,
+        "roadway": "Highway 401",
+        "description": "From Harmony Road to Boundary Road",
+        "date": "February 22, 2026",
+        "timeframe": "04:00 - 07:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073404000000000,
+        "roadway": "Highway 401",
+        "description": "From Harmony Road to Boundary Road",
+        "date": "February 22, 2026",
+        "timeframe": "07:00 - 10:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073512000000000,
+        "roadway": "Highway 401",
+        "description": "From Harmony Road to Boundary Road",
+        "date": "February 22, 2026",
+        "timeframe": "10:00 - 13:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073620000000000,
+        "roadway": "Highway 401",
+        "description": "From Harmony Road to Boundary Road",
+        "date": "February 22, 2026",
+        "timeframe": "13:00 - 16:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073296000000000,
+        "roadway": "Highway 401",
+        "description": "From Highway 400 to Morningside (Scarborough)",
+        "date": "February 22, 2026",
+        "timeframe": "04:00 - 07:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073404000000000,
+        "roadway": "Highway 401",
+        "description": "From Highway 400 to Morningside (Scarborough)",
+        "date": "February 22, 2026",
+        "timeframe": "07:00 - 10:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073512000000000,
+        "roadway": "Highway 401",
+        "description": "From Highway 400 to Morningside (Scarborough)",
+        "date": "February 22, 2026",
+        "timeframe": "10:00 - 13:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073620000000000,
+        "roadway": "Highway 401",
+        "description": "From Highway 400 to Morningside (Scarborough)",
+        "date": "February 22, 2026",
+        "timeframe": "13:00 - 16:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073296000000000,
+        "roadway": "Highway 401",
+        "description": "From Morningside (Scarborough) to Harmony Road",
+        "date": "February 22, 2026",
+        "timeframe": "04:00 - 07:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073404000000000,
+        "roadway": "Highway 401",
+        "description": "From Morningside (Scarborough) to Harmony Road",
+        "date": "February 22, 2026",
+        "timeframe": "07:00 - 10:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073512000000000,
+        "roadway": "Highway 401",
+        "description": "From Morningside (Scarborough) to Harmony Road",
+        "date": "February 22, 2026",
+        "timeframe": "10:00 - 13:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      },
+      {
+        "order": 639073620000000000,
+        "roadway": "Highway 401",
+        "description": "From Morningside (Scarborough) to Harmony Road",
+        "date": "February 22, 2026",
+        "timeframe": "13:00 - 16:00",
+        "timezone": "EST",
+        "forecast": "Good - Light Winds & Moderate Gusts, Flurries",
+        "region": "Central"
+      }
+    ],
+    "count": 12
+  },
+  "waze": {
+    "incidentsCount": 0,
+    "trafficJamsCount": 0,
+    "weatherHazardsCount": 0,
+    "incidents": [],
+    "trafficJams": [],
+    "weatherHazards": [],
+    "note": "Waze feeds can legitimately be empty at scrape time."
+  },
+  "gotchas": [
+    "A login modal can appear after route generation; click the modal Close (×) button before scraping.",
+    "Autocomplete can leave destination suggestions open; press Enter after filling destination.",
+    "Road Conditions and Forecast layers conflict with Traffic Speeds in the map UI.",
+    "Traffic speeds are tile-based, not row-based, so numeric speeds are not directly listed in report APIs.",
+    "Camera map icons do not include camera names; resolve names and image URLs through /tooltip/Cameras/{itemId}?lang=en."
+  ]
+}

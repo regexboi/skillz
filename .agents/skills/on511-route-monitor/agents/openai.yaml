@@ -1,0 +1,3 @@
+display_name: ON511 Route Monitor
+short_description: Fixed-route 511ON scraper for Scarborough to Oshawa
+default_prompt: Collect route time, events/roadwork, camera image URLs, plows, road/forecast conditions, Waze data, and traffic-speed artifacts for 4 Agincourt Drive to 1908 Colonel Sam Drive.
