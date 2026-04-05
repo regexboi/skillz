@@ -20,6 +20,9 @@ node .agents/skills/on511-route-monitor/scripts/collect_on511_route_data.mjs \
 The script writes:
 - `./tmp511-route-output/on511_route_report.json`
 
+Bundled sample output:
+- `.agents/skills/on511-route-monitor/assets/sample-output/on511_route_report.json`
+
 ## What the script extracts
 
 - Primary route travel time and distance

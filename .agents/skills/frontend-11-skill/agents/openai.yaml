@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend 11"
+  short_description: "Create visually distinctive, production-grade frontend UI"
+  default_prompt: "Use $frontend-11-skill to design and implement a distinctive frontend interface with a strong aesthetic point of view."
